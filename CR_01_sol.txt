@@ -1,0 +1,31 @@
+### Context of the Problem
+
+The problem revolves around Roman, who considers Californian red wine and cheese as **perfect complements**. Both of these goods are also categorized as **normal goods**, which means that Roman consumes positive quantities of both. The scenario changes when a bad year in Napa Valley causes a 20% increase in the price of Californian wine. The question asks how this price increase will affect Roman's consumption of cheese, assuming all other factors remain constant.
+
+### Specific Terms and Their Explanations
+
+1. **Normal Goods**:
+   - **Definition**: Goods for which demand increases as consumer income increases. Conversely, if income decreases, demand for these goods also decreases.
+   - **Analogy**: Imagine you get a raise at work. As a result, you start buying more high-quality coffee (a normal good) instead of instant coffee. If your income decreases, you might go back to buying the cheaper instant coffee.
+   - **Relationship**: Roman's wine and cheese consumption increases with his income. If his income decreases or if the prices of these goods increase, he might consume less of them.
+
+2. **Perfect Complements**:
+   - **Definition**: Two goods that are consumed together in fixed proportions. The consumption of one good requires the consumption of the other. If the quantity of one good changes, the consumption of the other good must change to maintain the fixed proportion.
+   - **Analogy**: Think of left shoes and right shoes. You wouldn’t buy just one left shoe without the right one; you need both to function properly.
+   - **Relationship**: Roman sees wine and cheese as perfect complements, meaning he consumes them together in fixed ratios. If he has less wine, he automatically consumes less cheese to keep the proportion.
+
+3. **Substitution Effect**:
+   - **Definition**: The change in the quantity demanded of a good due to a change in its price relative to other goods, while keeping the consumer’s level of satisfaction constant.
+   - **Analogy**: If the price of beef increases while the price of chicken stays the same, you might substitute chicken for beef in your diet.
+   - **Relationship**: The problem notes that there is **no substitution effect** for perfect complements, meaning Roman won’t switch to other goods because wine and cheese are consumed together in fixed proportions.
+
+4. **Income Effect**:
+   - **Definition**: The change in consumption resulting from a change in real income (purchasing power) due to a price change. If the price of a good rises and your income stays the same, your effective purchasing power decreases.
+   - **Analogy**: Imagine that the price of your favorite cereal doubles. Even if your income remains the same, you’ll feel poorer because you can now buy less of it with your money.
+   - **Relationship**: The rise in the price of wine causes a **negative income effect** for Roman, making him feel poorer. As a result, he reduces his consumption of both wine and cheese because they are perfect complements.
+
+### Relationship Between the Terms
+
+In this scenario, the increase in the price of Californian wine triggers the **income effect**, which reduces Roman’s overall purchasing power. Because wine and cheese are **perfect complements**, Roman reduces his consumption of both goods to maintain their fixed ratio. There is no **substitution effect** because Roman does not see wine and cheese as replaceable by other goods; he only consumes them together. Since both goods are **normal goods**, his decreased purchasing power leads to a reduction in their consumption.
+
+The solution correctly concludes that Roman’s consumption of cheese will **decrease** due to the higher price of wine, which reduces his overall real income and affects his ability to purchase both goods in their usual quantities.
