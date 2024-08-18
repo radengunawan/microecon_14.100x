@@ -1,0 +1,7 @@
+Here is the plot showing both the demand curve (in blue) and the supply curves. The green line represents the original supply curve before the $10 tax, and the red dashed line represents the supply curve after the $10 tax is imposed.
+
+- **Demand Curve (Blue)**: \( D(p) = 100 - p \)
+- **Original Supply Curve (Green)**: \( S(p) = p - 10 \)
+- **Supply Curve with Tax (Red, Dashed)**: \( S(p) = p - 20 \)
+
+This graph illustrates how the $10 tax shifts the supply curve downward (to the left) by $10, resulting in a new equilibrium point with a lower quantity of labor and a different equilibrium price.
