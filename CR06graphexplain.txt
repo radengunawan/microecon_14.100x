@@ -1,0 +1,10 @@
+### Drawing the New Supply and Demand Curves
+
+Now, let's plot the new demand and supply curves on the same graph.
+
+Here is the plot showing the demand curve (in blue) along with two different supply curves:
+
+1. **Supply Curve with $10 Tax (Red, Dashed)**: This represents the scenario where the tax is imposed, but the workers do not value the healthcare, leading to a downward shift in the supply curve by $10.
+2. **Supply Curve with $10 Tax and $H = 10 (Green, Dash-Dotted)**: This represents the scenario where the tax is imposed, but the workers value the healthcare provided by exactly $10. This results in the supply curve returning to its original position (\( S(p) = p \)) since the $10 valuation of healthcare offsets the tax.
+
+In this scenario, the equilibrium price \( p^* \) is 45, and the equilibrium quantity \( Q^* \) remains 45, effectively eliminating any deadweight loss that would have occurred if the healthcare was not valued by the workers. The labor market returns to its original competitive equilibrium quantity despite the tax.

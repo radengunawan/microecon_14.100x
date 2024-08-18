@@ -1,0 +1,57 @@
+### Problem Context
+
+In this scenario, the government imposes a $10 tax per worker, but unlike the previous case, the workers value the healthcare provided by the tax at exactly $10 (i.e., \( H = 10 \)). The task is to find the new equilibrium price (\( p^* \)) and quantity (\( Q^* \)) in the labor market and analyze how this valuation affects the deadweight loss.
+
+### Steps to Obtain the Solution
+
+1. **Understand the Market Demand and Supply Equations**:
+   - **Demand Curve**: \( D(p) = 100 - p \)
+   - **Supply Curve**: Previously, we had \( S(p) = p + H - 10 \). Since \( H = 10 \), the equation simplifies:
+     \[
+     S(p) = p + 10 - 10 = p
+     \]
+     However, this supply curve will be adjusted due to the $10 tax imposed on firms, similar to the previous problem.
+
+2. **Adjust the Supply Curve with the Tax and Workers’ Valuation of Healthcare**:
+   - The tax decreases the wage firms are willing to pay by $10, effectively shifting the supply curve down by $10.
+   - The new supply curve considering the tax is:
+     \[
+     S(p) = p - 10
+     \]
+
+3. **Set the Demand Equal to the New Supply to Find the Equilibrium**:
+   - **Equilibrium Condition**: \( D(p) = S(p) \)
+   - Substitute the demand and new supply equations:
+     \[
+     100 - p^* = p^* - 10
+     \]
+   
+4. **Solve for the Equilibrium Price \( p^* \)**:
+   - Move all terms involving \( p^* \) to one side of the equation:
+     \[
+     100 + 10 = 2p^*
+     \]
+     \[
+     110 = 2p^*
+     \]
+   - Divide by 2:
+     \[
+     p^* = \frac{110}{2} = 55
+     \]
+
+5. **Find the Equilibrium Quantity \( Q^* \)**:
+   - Substitute the equilibrium price \( p^* = 55 \) into either the demand or supply equation to find \( Q^* \).
+   - Using the demand equation:
+     \[
+     Q^* = 100 - 55 = 45
+     \]
+
+### Explanation of the Final Solution
+
+- The final equilibrium price \( p^* \) with the tax and when workers value the healthcare provided at $10 is $45.
+- The corresponding equilibrium quantity \( Q^* \) is 45 units of labor.
+
+### Deadweight Loss
+
+- Since workers value the healthcare provided by the tax exactly at $10, this valuation cancels out the negative effect of the tax on the supply side, thereby eliminating the deadweight loss. The labor market remains at the same equilibrium quantity, ensuring that the tax does not reduce the quantity of labor traded in the market.
+
