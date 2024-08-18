@@ -1,0 +1,53 @@
+### Context of the Problem:
+
+In this problem, Josh spends all of his money on two goods: instant ramen, which is described as an **inferior good**, and soda. He consumes both goods in positive quantities. A ban on trade with Mexico increases the price of soda by 20%, but the price of ramen remains unchanged. The question asks what happens to Josh's consumption of soda after the price increase.
+
+### Explanation of Specific Terms:
+
+1. **Inferior Good**:
+   - **Definition**: An inferior good is a type of good for which demand increases when consumer income decreases, and vice versa. People tend to buy more of these goods when they have less money.
+   - **Analogy**: Think of instant ramen as a cheap meal option. If someone earns less money, they might buy more ramen because it is affordable. Conversely, if their income increases, they might buy less ramen and switch to more expensive foods.
+   - **Quantitative Example**: Imagine Josh earns $100 a week and spends $20 on instant ramen because it's cheap. If his income drops to $80, he might start spending $30 on ramen because he can't afford more expensive options.
+  
+2. **Normal Good**:
+   - **Definition**: A normal good is a type of good for which demand increases when consumer income increases, and decreases when income decreases.
+   - **Analogy**: Soda in this problem is presumed to be a normal good. If Josh earns more money, he might buy more soda, considering it a treat or luxury compared to water.
+   - **Quantitative Example**: If Josh's income increases from $100 to $120, he might spend more on soda, increasing his soda consumption from 5 cans to 8 cans a week.
+
+3. **Income Effect**:
+   - **Definition**: The income effect refers to the change in consumption that results from a change in real income (purchasing power) due to a change in the price of goods.
+   - **Analogy**: If soda becomes more expensive and Josh's income remains the same, his purchasing power effectively decreases. This means he can buy less soda because his money doesn’t stretch as far.
+   - **Quantitative Example**: If soda's price increases by 20%, and Josh's income is fixed at $100, his ability to buy soda decreases. If soda was originally $1 per can and now it's $1.20, Josh can buy fewer cans.
+
+4. **Substitution Effect**:
+   - **Definition**: The substitution effect refers to the change in consumption that occurs when a good's price increases, leading consumers to substitute it with a relatively cheaper alternative.
+   - **Analogy**: If soda's price rises, Josh might decide to drink more water or buy more ramen instead because they have become relatively cheaper.
+   - **Quantitative Example**: If soda and ramen were equally preferred and soda's price increased by 20%, Josh might reduce his soda consumption by 2 cans and buy 2 extra packs of ramen instead.
+
+### Relationship Between the Terms:
+
+- **Income and Substitution Effects Combined**: When the price of soda increases, both the income and substitution effects cause Josh to reduce his soda consumption. 
+  - The **income effect** makes him feel poorer, leading to less soda consumption because soda is a normal good.
+  - The **substitution effect** encourages him to consume more of the cheaper ramen instead of soda.
+
+### Conclusion:
+
+Given that soda is a normal good and ramen is an inferior good, the increase in the price of soda leads Josh to reduce his consumption of soda due to the combined income and substitution effects. This aligns with the conclusion in the provided solution, where Josh's consumption of soda decreases.
+
+When the substitution effect occurs, people typically switch to a **cheaper alternative**. The nature of the good they switch to (whether it's a normal good or an inferior good) depends on the available options and the consumer's preferences. Here's how it works:
+
+1. **Cheaper Inferior Good**: 
+   - If the price of a good (say, soda) increases, and the alternative available is an inferior good (like instant ramen), people might substitute the more expensive good with the cheaper inferior good. This is because the inferior good becomes relatively more attractive in comparison to the now more expensive normal good.
+
+2. **Cheaper Normal Good**:
+   - If a cheaper normal good is available as an alternative, people may substitute the more expensive good with the cheaper normal good. For example, if soda's price rises and juice (a normal good) is relatively cheaper, people might switch to buying more juice.
+
+### Example to Illustrate:
+
+- **Substitution to Inferior Good**: If the price of a normal good like soda rises and instant ramen (an inferior good) is much cheaper, Josh might buy more ramen and less soda. The substitution effect here leads to increased consumption of the inferior good.
+
+- **Substitution to Another Normal Good**: If the price of soda rises and another normal good like juice is cheaper, Josh might reduce his soda consumption and buy more juice instead. Here, the substitution effect leads to switching between normal goods.
+
+### Summary:
+
+The substitution effect leads people to switch to the cheaper good, which could be either a normal or an inferior good. The critical factor is the relative price change, not necessarily the nature of the good.
